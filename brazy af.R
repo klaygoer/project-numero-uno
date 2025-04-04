@@ -1,4 +1,4 @@
-print("brazy shii")
+print("everlong")
 
-print("back token")
+print("back it up token")
 
