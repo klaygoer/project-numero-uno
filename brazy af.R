@@ -1,3 +1,3 @@
 print("brazy shii")
 
-print("new token")
+print("back to old token")
