@@ -1,3 +1,3 @@
 print("brazy shii")
 
-print("githubbin")
+print("new token")
